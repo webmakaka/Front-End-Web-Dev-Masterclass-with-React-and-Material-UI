@@ -24,6 +24,14 @@ http://localhost:3000/
 
 <br/>
 
+## 03. Build a Navigation Bar
+
+<br/>
+
+![Application](/img/pic-part03-pic01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
