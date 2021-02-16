@@ -32,6 +32,14 @@ http://localhost:3000/
 
 <br/>
 
+## 04. Build a Grid Layout
+
+<br/>
+
+![Application](/img/pic-part04-pic01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
