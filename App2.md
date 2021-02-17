@@ -2,13 +2,24 @@
 
 <br/>
 
-![Application](/img/pic-part04-pic01.png?raw=true)
+## 07 Set Up a Landing Page with React and Material-UI
 
 <br/>
 
-### [Development App1](./App1.md)
+### 031. Create A New React App
 
-### [Development App2](./App2.md)
+    $ cd app2
+    $ npx create-react-app .
+    $ npm start
+
+<br/>
+
+    $ npm install @material-ui/core
+    $ npm install @material-ui/icons
+
+<br/>
+
+## 032. Set Up The Grid Layout
 
 <br/>
 
