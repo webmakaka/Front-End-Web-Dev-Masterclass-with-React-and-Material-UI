@@ -2,8 +2,9 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import React from 'react';
 import './App.css';
 import { NavigationBar } from 'NavigationBar';
-import { GridLayout } from 'GridLayout';
 import { Container } from '@material-ui/core';
+import { GridLayout } from 'GridLayout';
+import { Footer } from 'Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <GridLayout />
         </main>
       </Container>
+      <Footer />
     </div>
   );
 }

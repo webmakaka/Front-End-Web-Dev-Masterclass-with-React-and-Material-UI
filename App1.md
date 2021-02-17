@@ -40,11 +40,19 @@ http://localhost:3000/
 
 <br/>
 
-## 05 Build a Toggle Navigation Bar
+## 05. Build a Toggle Navigation Bar
 
 <br/>
 
 ![Application](/img/pic-part05-pic01.png?raw=true)
+
+<br/>
+
+## 06. Build a Footer
+
+<br/>
+
+![Application](/img/pic-part06-pic01.png?raw=true)
 
 <br/>
 
