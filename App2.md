@@ -31,6 +31,14 @@
 
 <br/>
 
+## 09. Build a Product Information Component
+
+<br/>
+
+![Application](/img/pic-part09-pic01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
