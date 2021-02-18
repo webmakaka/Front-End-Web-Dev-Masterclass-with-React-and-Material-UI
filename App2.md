@@ -19,7 +19,15 @@
 
 <br/>
 
-## 032. Set Up The Grid Layout
+### 032. Set Up The Grid Layout
+
+<br/>
+
+## 08. Build a Main Grid Item
+
+<br/>
+
+![Application](/img/pic-part08-pic01.png?raw=true)
 
 <br/>
 
