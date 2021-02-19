@@ -39,6 +39,14 @@
 
 <br/>
 
+## 10. Build a Pricing Component
+
+<br/>
+
+![Application](/img/pic-part10-pic01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
