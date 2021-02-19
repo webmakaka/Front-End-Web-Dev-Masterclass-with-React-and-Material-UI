@@ -47,6 +47,14 @@
 
 <br/>
 
+## 11. Build a Large Footer
+
+<br/>
+
+![Application](/img/pic-part11-pic01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>

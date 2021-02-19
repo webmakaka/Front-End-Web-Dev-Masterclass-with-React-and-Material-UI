@@ -10,7 +10,7 @@
 
 **App2**
 
-![Example](https://react-and-material-ui-app2.pages.dev/)
+[Example](https://react-and-material-ui-app2.pages.dev/)
 
 <br/>
 
