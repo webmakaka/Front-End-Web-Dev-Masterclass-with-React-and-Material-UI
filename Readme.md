@@ -4,13 +4,15 @@
 
 **App1**
 
+[Example](https://front-end-web-dev-masterclass-with-react-and-material-ui.pages.dev/)
+
 ![Application](/img/pic-part04-pic01.png?raw=true)
 
 <br/>
 
 **App2**
 
-[Example](https://react-and-material-ui-app2.pages.dev/)
+Looks bad
 
 <br/>
 
